@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="101d38f9-f377-42af-914c-4376e8450de0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1uhqZUdmq6OTIlV9RCHLmg9XouH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/udaSecurity4" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\KC135\IdeaProjects\080721a\udaSecurity4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SecurityServiceTest">
+    <configuration name="CatpointApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.udacity.catpoint.application.CatpointApp" />
+      <module name="securityService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udacity.catpoint.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecurityServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="securityService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udacity.catpoint.servicesecurity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.udacity.catpoint.servicesecurity" />
+      <option name="MAIN_CLASS_NAME" value="com.udacity.catpoint.servicesecurity.SecurityServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecurityServiceTest._c_ifAlarmDisarmedAndAlarmStatusAlarm_SensorDeactivated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="securityService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udacity.catpoint.servicesecurity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.udacity.catpoint.servicesecurity" />
+      <option name="MAIN_CLASS_NAME" value="com.udacity.catpoint.servicesecurity.SecurityServiceTest" />
+      <option name="METHOD_NAME" value="_c_ifAlarmDisarmedAndAlarmStatusAlarm_SensorDeactivated" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SecurityServiceTest" />
+        <item itemvalue="Application.CatpointApp" />
+        <item itemvalue="JUnit.SecurityServiceTest._c_ifAlarmDisarmedAndAlarmStatusAlarm_SensorDeactivated" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="101d38f9-f377-42af-914c-4376e8450de0" name="Default Changelist" comment="" />
+      <created>1625128223575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625128223575</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/udaSecurity3$CatpointApp.ic" NAME="CatpointApp Coverage Results" MODIFIED="1625567676766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.udacity.catpoint.application.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/udaSecurity3$SecurityServiceTest__c_ifAlarmDisarmedAndAlarmStatusAlarm_SensorDeactivated.ic" NAME="SecurityServiceTest._c_ifAlarmDisarmedAndAlarmStatusAlarm_SensorDeactivated Coverage Results" MODIFIED="1625574175627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.udacity.catpoint.servicesecurity.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/udaSecurity3$SecurityServiceTest.ic" NAME="SecurityServiceTest Coverage Results" MODIFIED="1625825250775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.udacity.catpoint.servicesecurity.*</FILTER>
+    </SUITE>
+  </component>
+</project>

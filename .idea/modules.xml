@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/udaSecurity4/imageService/imageService.iml" filepath="$PROJECT_DIR$/udaSecurity4/imageService/imageService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udaSecurity4/securityService/securityService.iml" filepath="$PROJECT_DIR$/udaSecurity4/securityService/securityService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udaSecurity4/udaSecurity3.iml" filepath="$PROJECT_DIR$/udaSecurity4/udaSecurity3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/udaSecurity4.iml" filepath="$PROJECT_DIR$/.idea/udaSecurity4.iml" />
+    </modules>
+  </component>
+</project>
